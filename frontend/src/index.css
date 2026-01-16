@@ -1,0 +1,24 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-family: 'Inter', sans-serif;
+    
+  --color-primary: #1a73e8;
+  --color-primary-hover: #1765cc;
+  --color-secondary: #f1f3f4;
+  --color-secondary-hover: #e8eaed;
+  --color-border-main: #dadce0;
+  --color-text-main: #202124;
+  --color-text-secondary: #5f6368;
+
+
+}
+
+
+
